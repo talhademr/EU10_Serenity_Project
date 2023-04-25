@@ -16,7 +16,7 @@ public class SpartanAdminGetTest {
 
     @BeforeAll
     public static void setUpBase() {
-        baseURI = "http://3.216.30.92:7000";
+        baseURI = "http://54.85.249.46:7000";
     }
 
 
